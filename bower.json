@@ -11,7 +11,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/jakubroztocil/rrule.git"
+        "url": "git://github.com/xdotai/rrule.git"
     },
 
     "version": "2.1.0",
